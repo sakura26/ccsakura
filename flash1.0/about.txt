@@ -1,0 +1,3 @@
+﻿about_text=<b>関於本站：</b>
+<br>建立2004年9月9日<br>是一個CardCaptorSakura的専門網站
+目前的管理者為<br>  sakura26
